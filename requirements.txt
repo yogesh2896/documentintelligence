@@ -1,0 +1,6 @@
+pdfplumber
+streamlit
+azure-ai-formrecognizer
+azure-core
+requests
+pillow
